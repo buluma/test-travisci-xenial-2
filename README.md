@@ -1,6 +1,6 @@
 # Test Travis CI with Xenial VM
 
-[![Build Status](https://travis-ci.com/buluma/test-travisci-xenial.svg?branch=master)](https://travis-ci.com/buluma/test-travisci-xenial)
+[![Build Status](https://travis-ci.com/buluma/test-travisci-xenial-2.svg?branch=main)](https://travis-ci.com/buluma/test-travisci-xenial-2)
 
 In general
 
