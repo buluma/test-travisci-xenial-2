@@ -1,6 +1,6 @@
 # Test Travis CI with Xenial VM
 
-[![Build Status](https://travis-ci.com/buluma/test-travisci-xenial-2.svg?branch=main)](https://travis-ci.com/buluma/test-travisci-xenial-2)
+[![Build Status](https://travis-ci.com/buluma/test-travisci-xenial-2.svg?branch=main)](https://travis-ci.com/buluma/test-travisci-xenial-2) [![HitCount](http://hits.dwyl.com/buluma/docker-ubuntu1404-ansible.svg)](http://hits.dwyl.com/buluma/docker-ubuntu1404-ansible)
 
 In general
 
