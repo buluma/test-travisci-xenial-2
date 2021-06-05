@@ -1,12 +1,13 @@
 dist: xenial  # default
-sudo: required
+# sudo: required
+
+os: linux
 
 language: go
 go:
   # - "1.14.x"
   - 1.x
   - "1.14.x"
-  - "1.11.x"
   - master
 
 addons:
