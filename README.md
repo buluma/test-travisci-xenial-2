@@ -1,8 +1,8 @@
 # Test Travis CI with Xenial VM
 
-[![Build Status](https://travis-ci.com/buluma/test-travisci-xenial-2.svg?branch=main)](https://travis-ci.com/buluma/test-travisci-xenial-2) [![HitCount](http://hits.dwyl.com/buluma/docker-ubuntu1404-ansible.svg)](http://hits.dwyl.com/buluma/docker-ubuntu1404-ansible)
+[![Build Status](https://travis-ci.com/buluma/test-travisci-xenial-2.svg?branch=main)](https://travis-ci.com/buluma/test-travisci-xenial-2) 
 
-In general
+Generally:
 
  - Official Travis CI document: [Setting up Databases and Services](https://docs.travis-ci.com/user/database-setup/)
 
